@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversaoValores", "InversaoValores\InversaoValores.csproj", "{EC4E6ED7-46F7-464E-BBB1-C2FB3C21089C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4E6ED7-46F7-464E-BBB1-C2FB3C21089C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4E6ED7-46F7-464E-BBB1-C2FB3C21089C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4E6ED7-46F7-464E-BBB1-C2FB3C21089C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4E6ED7-46F7-464E-BBB1-C2FB3C21089C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A2AC1D-0BDC-4EA1-B0AB-12BF40DCD8F8}
+	EndGlobalSection
+EndGlobal
